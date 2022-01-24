@@ -21,7 +21,7 @@ To serve in the browser  - Runs webpack-dev-server
 ```sh
 $ npm start
 ```
-### Serve
+### Custom api
 To run the custom api
 
 ```sh
